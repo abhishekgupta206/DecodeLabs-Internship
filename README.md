@@ -10,7 +10,6 @@ This project analyzes an e-commerce sales dataset containing 1200+ transactions.
 - Python
 - Pandas
 - Matplotlib
-- Excel
 
 ## Data Cleaning
 - Handled missing values
