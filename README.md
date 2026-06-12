@@ -1,31 +1,44 @@
 # DecodeLabs-Internship
-Project-1 !!
+Projects Completed !!
 
 # E-Commerce Sales Analysis
 
-## Overview
-This project analyzes an e-commerce sales dataset containing 1200+ transactions.
+# Ecommerce Sales Analysis
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
+## Project Overview
 
-## Data Cleaning
-- Handled missing values
-- Removed duplicates
-- Removed extra spaces
-- Validated pricing calculations
+This project analyzes ecommerce sales data using Python, Pandas, SQL, and Data Visualization techniques.
 
-## Exploratory Data Analysis
-- Product-wise Revenue Analysis
-- Order Status Distribution
-- Payment Method Analysis
-- Referral Source Analysis
+## Objectives
+
+* Clean and preprocess raw sales data
+* Perform exploratory data analysis
+* Execute SQL queries for business insights
+* Visualize trends and customer behavior
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* SQLite
+* Jupyter Notebook
+
+## Key Insights
+
+* Top-selling products identified
+* Monthly revenue trends analyzed
+* Payment method preferences evaluated
+* Customer spending patterns explored
 
 ## Files
-- Ecommerce_Sales_Analysis.ipynb
-- Cleaned_Data.xlsx
+
+* Ecommerce_Sales_Analysis(COMPLETED).ipynb
+* Cleaned_Data.xlsx
+* ecommerce.db
 
 ## Author
-Abhishek Gupta
+
+ABHISHEK GUPTA
+DATA ANALYST
