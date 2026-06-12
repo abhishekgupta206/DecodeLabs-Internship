@@ -1,8 +1,6 @@
 # DecodeLabs-Internship
 Projects Completed !!
 
-# E-Commerce Sales Analysis
-
 # Ecommerce Sales Analysis
 
 ## Project Overview
